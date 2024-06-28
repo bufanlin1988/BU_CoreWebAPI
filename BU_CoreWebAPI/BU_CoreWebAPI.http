@@ -1,0 +1,6 @@
+@BU_CoreWebAPI_HostAddress = http://localhost:5092
+
+GET {{BU_CoreWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
